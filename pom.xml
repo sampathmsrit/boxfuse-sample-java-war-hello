@@ -34,11 +34,11 @@
             </plugin>
         </plugins>
     </build>
-         <distributionManagement>
-     <repository>
-      <id>releases</id>
-      <name>Releases</name>
-       <url>http://52.205.253.238:8081/nexus/content/repositories/releases</url>
-     </repository>
+    <distributionManagement>
+                <repository>
+                        <id>repo</id>
+                        <name>repo</name>
+                        <url>http://13.56.160.211:8081/nexus/content/repositories/repo/</url>
+                </repository>
 </distributionManagement> 
 </project>
