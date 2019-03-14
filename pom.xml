@@ -4,7 +4,7 @@
     <groupId>com.boxfuse.samples</groupId>
     <artifactId>hello</artifactId>
     <packaging>war</packaging>
-    <version>1.1</version>
+    <version>1.1-SNAPSHOT</version>
     <name>hello</name>
     <url>https://github.com/boxfuse/boxfuse-sample-java-war-hello</url>
     <dependencies>
@@ -36,9 +36,9 @@
     </build>
     <distributionManagement>
                 <repository>
-                        <id>repo</id>
-                        <name>repo</name>
-                        <url>http://54.153.116.255:8081/nexus/content/repositories/repo/</url>
+                        <id>reposam</id>
+                        <name>reposam</name>
+                        <url>http://54.153.116.255:8081/nexus/content/repositories/reposam/</url>
                 </repository>
 </distributionManagement> 
 </project>
