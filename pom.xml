@@ -38,7 +38,7 @@
                 <repository>
                         <id>reposam</id>
                         <name>reposam</name>
-                        <url>http://54.153.116.255:8081/nexus/content/repositories/reposam/</url>
+                        <url>http://18.144.28.53:8081/nexus/content/repositories/samrepo/</url>
                 </repository>
 </distributionManagement> 
 </project>
